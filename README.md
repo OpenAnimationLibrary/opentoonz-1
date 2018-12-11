@@ -51,3 +51,5 @@ Can't develop but still want to help? Help us test individual Pull Requests befo
 ### Special Thanks
 
 This Open Source Program is developed from Toonz, a software originally created by Digital Video, S.p.A., Rome Italy
+
+### Releases
